@@ -9,7 +9,7 @@ GREEK-SALATA
 | 3 | Συμμετοχικό περιεχόμενο A1 | https://github.com/courses-ionio/help/discussions/1195  | |
 | 4 | Άσκηση γραμμής εντολών (arch linux install on HW) | https://github.com/courses-ionio/help/discussions/1341 | |
 | 5 | Συμμετοχικό περιεχόμενο A2 | https://github.com/courses-ionio/help/discussions/1468 | |
-| 6 | Κατασκευή του βιβλίου Α | | |
+| 6 | Κατασκευή του βιβλίου Α | https://github.com/courses-ionio/help/discussions/1574 | |
 | 7 | Συμμετοχικό περιεχόμενο B1 | | |
 | 8 | Άσκηση γραμμής εντολών | | |
 | 9 | Συμμετοχικό περιεχόμενο B2 | | |
