@@ -26,6 +26,7 @@ GREEK-SALATA: [org](https://github.com/Greek-Salata)
 
 # Παραδοτεο 2ο
 εκανα απεφθιας το Linux install. Πρωτη φορα που ερχομαι σε επαφη με τα linux, με δυσκολεψε λιγο στην αρχη αλλα μετα εγινε ολο και πιο ενδιαφετον. 
+https://asciinema.org/a/H8YQDuGMEC8QWOdUk7WaXJSd0
 
 # Παραδοτεο 3ο
 σε αυτο το παραδοτεο δημιουργησα με την ομαδα μου το netlify Οπου το ορισαμε ως greek-salata.cf, επισης προσθεσα εικονες και δημιουργησα Gallery για τα δυο βιντεοπαιχνιδια που επελξα (nintendo-game-boy-advance.md και nintendo-64.md) κανοντας και pull request για να εισαχθουν και στο orginization μας.
