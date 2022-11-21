@@ -63,6 +63,7 @@ md:
 
 * [pull-request](https://github.com/Greek-Salata/site/pull/10)
 * [slide](https://github.com/gr5gr6/site/blob/master/_slides/console.md)
+* [timeline](https://github.com/gr5gr6/site/blob/master/_timeline/console.md)
 
 # Παραδοτεο 6ο
 βρηκα στο βιβλιο ενα σημειο οπου με ενδιεφερε να εμπλουτισω, πιο συγκεκριμενα στην εξελιξη των ποντικιων. ειχα μια δυσκολια στο να λειτουργησω το pandoc οποτε για τωρα εχω αναπτηξει την παραγραφο μου στον εμπλουτισμο του βιβλιου και εκανα και το φιλτρο.
