@@ -26,6 +26,7 @@ GREEK-SALATA: [org](https://github.com/Greek-Salata)
 
 # Παραδοτεο 2ο
 εκανα απεφθιας το Linux install. Πρωτη φορα που ερχομαι σε επαφη με τα linux, με δυσκολεψε λιγο στην αρχη αλλα μετα εγινε ολο και πιο ενδιαφετον. 
+<a href="https://asciinema.org/a/yt8378ymudJF3T56Eyg2ZrVPT"><img src="(https://asciinema.org/a/yt8378ymudJF3T56Eyg2ZrVPT)" width="836"/></a>
 
 
 # Παραδοτεο 3ο
