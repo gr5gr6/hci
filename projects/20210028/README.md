@@ -30,7 +30,7 @@ GREEK-SALATA: [org](https://github.com/Greek-Salata)
 εκανα απεφθιας το Linux install. Πρωτη φορα που ερχομαι σε επαφη με τα linux, με δυσκολεψε λιγο στην αρχη αλλα μετα εγινε ολο και πιο ενδιαφετον. 
 
 
-<a href="https://asciinema.org/a/yt8378ymudJF3T56Eyg2ZrVPT" target="_blank"><img src="https://asciinema.org/a/yt8378ymudJF3T56Eyg2ZrVPT.svg" /></a>
+<a href="https://asciinema.org/a/H8YQDuGMEC8QWOdUk7WaXJSd0" target="_blank"><img src="https://asciinema.org/a/H8YQDuGMEC8QWOdUk7WaXJSd0.svg" /></a>
 
 
 # Παραδοτεο 3ο
@@ -56,7 +56,7 @@ md:
 # Παραδοτεο 4ο
 εφοσων στην αρχη δεν ειχε αννανεοθει το read me και μας ζηταγε απο την πρωτη βδομαδα να κατεβασουμε τα Linux το ειχα ιδι κανει οποτε απλα εκανα ξανα το asciinema για τα δυο ζητουμενα 
 
-<a href="https://asciinema.org/a/H8YQDuGMEC8QWOdUk7WaXJSd0" target="_blank"><img src="https://asciinema.org/a/H8YQDuGMEC8QWOdUk7WaXJSd0.svg" /></a>
+<a href="https://asciinema.org/a/yt8378ymudJF3T56Eyg2ZrVPT" target="_blank"><img src="https://asciinema.org/a/yt8378ymudJF3T56Eyg2ZrVPT.svg" /></a>
 
 # Παραδοτεο 5ο
 δημιουργησα τα timeline και τα slides, εκανα τα pull requests τους αλλα με εχει δυσκολεψει λιγο πως να τα προσθεσω στο site μας.
