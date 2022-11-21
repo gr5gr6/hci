@@ -39,6 +39,10 @@ GREEK-SALATA: [org](https://github.com/Greek-Salata)
 ![alt text](https://github.com/gr5gr6/images/blob/master/nintendo64-console.jpg)
 * [nintendo64-console](https://www.greek-salata.cf/gallery/nintendo-64/)
 
+
+![alt_text](https://github.com/gr5gr6/images/blob/master/nintendo-game-boy-advance.jpg)
+* [nintendo-game-boy-advance](https://www.greek-salata.cf/gallery/nintendo-game-boy-advance/)
+
 # Παραδοτεο 4ο
 εφοσων στην αρχη δεν ειχε αννανεοθει το read me και μας ζηταγε απο την πρωτη βδομαδα να κατεβασουμε τα Linux το ειχα ιδι κανει οποτε απλα εκανα ξανα το asciinema για τα δυο ζητουμενα 
 
