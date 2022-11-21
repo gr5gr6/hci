@@ -36,11 +36,15 @@ GREEK-SALATA: [org](https://github.com/Greek-Salata)
 # Παραδοτεο 3ο
 σε αυτο το παραδοτεο δημιουργησα με την ομαδα μου το netlify Οπου το ορισαμε ως greek-salata.cf, επισης προσθεσα εικονες και δημιουργησα Gallery για τα δυο βιντεοπαιχνιδια που επελξα (nintendo-game-boy-advance.md και nintendo-64.md) κανοντας και pull request για να εισαχθουν και στο orginization μας.
 
+images:
 * [image1](https://github.com/gr5gr6/images/blob/master/nintendo64-console.jpg)
 * [image1-thumbnail](https://github.com/gr5gr6/images/blob/master/nintendo64-console-thumb.jpg)
 * [image2](https://github.com/gr5gr6/images/blob/master/nintendo-game-boy-advance.jpg)
 * [image2-thumbnail](https://github.com/gr5gr6/images/blob/master/nintendo-game-boy-advance-thumb.jpg)
 
+md:
+* [md1](https://github.com/gr5gr6/_gallery/blob/master/nintendo-64.md)
+* [md2](https://github.com/gr5gr6/_gallery/blob/master/nintendo-game-boy-advance.md)
 
 ![alt text](https://github.com/gr5gr6/images/blob/master/nintendo64-console.jpg)
 * [nintendo64-console](https://www.greek-salata.cf/gallery/nintendo-64/)
